@@ -9,7 +9,7 @@ type: Document
 
 ## Pengembangan Fitur Banten Satu Data
 
- [![Perancangan database sistem](/images/pengembangan-fitur/retibusi_online-perancangan-database-sistem.png)](/images/retribusi-online/perancangan-database/retibusi_online-perancangan-database-sistem.png)
+ [![Perancangan database sistem](/images/pengembangan-fitur/retribusi-online_state-chart-diagram-admin-input-item.png)](/images/rpengembangan-fitur/retribusi-online_state-chart-diagram-admin-input-item.png)
 
 ## Tabel OPD
 
