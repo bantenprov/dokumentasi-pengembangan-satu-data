@@ -11,7 +11,7 @@ type: Document
 
 Menu Dashboard berfungsi untuk menampilkan tugas yang ingin dikerjakan. Pada menu ini kita dapat melihat list pekerjaan unit kerja dari setiap bidang yang ada di lingkungan pemerintahan. Di menu ini kita juga bisa mencari data tugas yang tidak di tampilkan pada menu list, dengan cara mengetikkan keyword yang ingin di cari pada field search data. Untuk menambahkan dashboard baru langkah pertama yang harus dilakukan yaitu dengan cara memilih list menu yang terdapat pada bagian atas halaman. Pada contoh ini kita akan menambahkan data **Dinas Pendidikan**, berikut langkahnya:
 
-### 1. Tekan Menu **Content->Add content->Data Dashboard** pada list menu yang terdapat pada bagian atas halaman.
+##### 1. Tekan Menu **Content->Add content->Data Dashboard** pada list menu yang terdapat pada bagian atas halaman.
 
  [![List Menu Buat Dashboard Baru](/images/satu-data/banten-satu-data_membuat-dashboard-baru.png)](/images/satu-data/banten-satu-data_membuat-dashboard-baru.png)
 
