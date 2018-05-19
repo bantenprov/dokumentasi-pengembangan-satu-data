@@ -76,5 +76,38 @@ Menu Dataset berfungsi untuk menampilkan seluruh file data yang telah di upload 
 
  [![Menu Dataset 2](/images/satu-data/banten-satu-data_menu-dataset-2.png)](/images/satu-data/banten-satu-data_menu-dataset-2.png)
 
-## Menambaf reources pada dataset
+## Menambahakan Resources Pada Dataset
 
+Menambahkan resource adalah menambahkan file baru pada dataset yang telah kita buat. Dataset yang telah di buat dapat menampung lebih dari satu file, untuk menambahkan resource baru pada dataset langkahnya kurang lebih sma dengan cara penambahan data ketika kita membuat dataset. Berikut adalah langkah-langkahnya:
+
+1. Buka dataset yang ingin kita tambah resource-nya (Data). Pada contoh ini kita akan menambah resource pada dataset **Daftar Sekolah SMA se-provinsi Banten**.
+
+ [![Menu Dataset 3](/images/satu-data/banten-satu-data_menu-dataset-3.png)](/images/satu-data/banten-satu-data_menu-dataset-3.png)
+
+2. Maka akan muncul halaman detil dataset yang kita buka tersebut. Di halaman ini kita akan melihat di dalam dataset hanya terdapat satu file. Lalu tekan tombol **Add Resource** untuk menambahkan resource baru.
+
+ [![Tombol Add Resource](/images/satu-data/banten-satu-data_tombol-add-resource.png)](/images/satu-data/banten-satu-data_tombol-add-resource.png)
+
+ [![Tambah Resource Baru](/images/satu-data/banten-satu-data_tambah-resource-baru.png)](/images/satu-data/banten-satu-data_tambah-resource-baru.png)
+
+3. Pada Langkah ini kita diharuskan meng-upload data yang kita inginkan ke dalam aplikasi, untuk meng-upload data bisa dengan beberapa cara seperti yang telah dijelaskan sebelumnya. Pada contoh ini kita akan meng-upload file dengan cara **Upload**.
+
+ [![Upload FIle 2](/images/satu-data/banten-satu-data_upload-file-2.png)](/images/satu-data/banten-satu-data_upload-file-2.png)
+
+ [![Tambah File Baru](/images/satu-data/banten-satu-data_tambah-file-baru.png)](/images/satu-data/banten-satu-data_tambah-file-baru.png)
+
+ [![Tambah File Baru Sukses](/images/satu-data/banten-satu-data_file-baru-sukses-diupload.png)](/images/satu-data/banten-satu-data_file-baru-sukses-diupload.png)
+
+4. Langkah selanjutnya yaitu menuliskan title pada file yang ingin kita upload pada field **Title**. Pada Contoh ini kita akan menulis field title dengan **Daftar SMA se-Provinsi Banten 2017**. Jika sudah mengisi field **Title** langkah selanjutnya yaitu menekan tombol save yang terdapat pada bagian bawah halaman.
+
+ [![Isi Title 2](/images/satu-data/banten-satu-data_isi-title-2.png)](/images/satu-data/banten-satu-data_isi-title-2.png)
+
+ [![Tombol Save 4](/images/satu-data/banten-satu-data_tombol-save-4.png)](/images/satu-data/banten-satu-data_tombol-save-4.png)
+
+5. Jika sudah menekan tombol save maka akan muncul halaman yang berisi tentang file data yang telah kita upload kedalam aplikasi.
+
+ [![Informasi Data 2](/images/satu-data/banten-satu-data_informasi-data-2.png)](/images/satu-data/banten-satu-data_informasi-data-2.png)
+
+6. Jika kita membuka **Dataset** yang telah kita tambah resource-nya, maka pada list data yang ditampilkan akan muncul data yang baru kita tambahkan tadi.
+
+ [![Menu Dataset 4](/images/satu-data/banten-satu-data_menu-dataset-4.png)](/images/satu-data/banten-satu-data_menu-dataset-4.png)
