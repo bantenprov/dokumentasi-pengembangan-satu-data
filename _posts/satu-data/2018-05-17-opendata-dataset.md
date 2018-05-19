@@ -111,3 +111,8 @@ Menambahkan resource adalah menambahkan file baru pada dataset yang telah kita b
 6. Jika kita membuka **Dataset** yang telah kita tambah resource-nya, maka pada list data yang ditampilkan akan muncul data yang baru kita tambahkan tadi.
 
  [![Menu Dataset 4](/images/satu-data/banten-satu-data_menu-dataset-4.png)](/images/satu-data/banten-satu-data_menu-dataset-4.png)
+
+
+## Melakukan update Dataset
+Jika perlukan perubahan informasi pada suatu dataset, maka kita dapat melakukan perbaikain menggunakan menu edit dataset.
+ 
